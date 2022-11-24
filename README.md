@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VIXO3029
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on applications development
+- 💞️ I’m looking to collaborate on applications development & design
 - 📫 How to reach me send me a emal to vrodriguez@ilernamadrid.com
 
 <!---
